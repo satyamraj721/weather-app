@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/weather';
+const API_URL = 'https://weather-app-backend-y50m.onrender.com/api/weather';
 
 const cityInput = document.getElementById('cityInput');
 const searchBtn = document.getElementById('searchBtn');
