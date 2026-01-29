@@ -5,8 +5,7 @@ The app is built with a Node.js + Express backend and a Vanilla JavaScript front
 
 🔗 Live Demo
 
-Frontend (Vercel):
-https://weather-qyldajdw7-satyam-rajs-projects-7a132275.vercel.app
+Frontend (Vercel):(https://weather-app-smoky-seven-72.vercel.app/)
 
 Backend API (Render):
 https://weather-app-backend-y50m.onrender.com/api/weather?city=Delhi
